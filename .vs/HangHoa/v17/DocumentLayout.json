@@ -1,0 +1,95 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\allec\\source\\repos\\Qu\u1EA3n L\u00FD H\u00E0ng H\u00F3a\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3F550DCE-976D-4314-AED9-90D934D21E9D}|HangHoa.csproj|C:\\Users\\allec\\source\\repos\\Qu\u1EA3n L\u00FD H\u00E0ng H\u00F3a\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F550DCE-976D-4314-AED9-90D934D21E9D}|HangHoa.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F550DCE-976D-4314-AED9-90D934D21E9D}|HangHoa.csproj|C:\\Users\\allec\\source\\repos\\Qu\u1EA3n L\u00FD H\u00E0ng H\u00F3a\\formqlhanghoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F550DCE-976D-4314-AED9-90D934D21E9D}|HangHoa.csproj|solutionrelative:formqlhanghoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F550DCE-976D-4314-AED9-90D934D21E9D}|HangHoa.csproj|C:\\Users\\allec\\source\\repos\\Qu\u1EA3n L\u00FD H\u00E0ng H\u00F3a\\formqlhanghoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3F550DCE-976D-4314-AED9-90D934D21E9D}|HangHoa.csproj|solutionrelative:formqlhanghoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F550DCE-976D-4314-AED9-90D934D21E9D}|HangHoa.csproj|c:\\users\\allec\\source\\repos\\qu\u1EA3n l\u00FD h\u00E0ng h\u00F3a\\hanghoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F550DCE-976D-4314-AED9-90D934D21E9D}|HangHoa.csproj|solutionrelative:hanghoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 332,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Hanghoa.cs",
+              "DocumentMoniker": "C:\\Users\\allec\\source\\repos\\Qu\u1EA3n L\u00FD H\u00E0ng H\u00F3a\\Hanghoa.cs",
+              "RelativeDocumentMoniker": "Hanghoa.cs",
+              "ToolTip": "C:\\Users\\allec\\source\\repos\\Qu\u1EA3n L\u00FD H\u00E0ng H\u00F3a\\Hanghoa.cs",
+              "RelativeToolTip": "Hanghoa.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAwA4AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T01:53:37.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\allec\\source\\repos\\Qu\u1EA3n L\u00FD H\u00E0ng H\u00F3a\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\allec\\source\\repos\\Qu\u1EA3n L\u00FD H\u00E0ng H\u00F3a\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAFUAAAAAAAAAAAAQwJgAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T01:50:52.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormQLHangHoa.cs",
+              "DocumentMoniker": "C:\\Users\\allec\\source\\repos\\Qu\u1EA3n L\u00FD H\u00E0ng H\u00F3a\\FormQLHangHoa.cs",
+              "RelativeDocumentMoniker": "FormQLHangHoa.cs",
+              "ToolTip": "C:\\Users\\allec\\source\\repos\\Qu\u1EA3n L\u00FD H\u00E0ng H\u00F3a\\FormQLHangHoa.cs",
+              "RelativeToolTip": "FormQLHangHoa.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAI4AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T17:36:47.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormQLHangHoa.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\allec\\source\\repos\\Qu\u1EA3n L\u00FD H\u00E0ng H\u00F3a\\FormQLHangHoa.cs",
+              "RelativeDocumentMoniker": "FormQLHangHoa.cs",
+              "ToolTip": "C:\\Users\\allec\\source\\repos\\Qu\u1EA3n L\u00FD H\u00E0ng H\u00F3a\\FormQLHangHoa.cs [Design]",
+              "RelativeToolTip": "FormQLHangHoa.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T17:29:47.828Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

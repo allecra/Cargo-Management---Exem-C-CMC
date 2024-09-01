@@ -1,0 +1,21 @@
+C:\Users\allec\source\repos\4\bin\Debug\4.exe.config
+C:\Users\allec\source\repos\4\bin\Debug\4.exe
+C:\Users\allec\source\repos\4\bin\Debug\4.pdb
+C:\Users\allec\source\repos\4\obj\Debug\HangHoa.csproj.AssemblyReference.cache
+C:\Users\allec\source\repos\4\obj\Debug\HangHoa.csproj.CoreCompileInputs.cache
+C:\Users\allec\source\repos\4\obj\Debug\4.exe
+C:\Users\allec\source\repos\4\obj\Debug\4.pdb
+C:\Users\allec\source\repos\4\obj\Debug\_4.FormQLHangHoa.resources
+C:\Users\allec\source\repos\4\obj\Debug\HangHoa.csproj.GenerateResource.cache
+C:\Users\allec\source\repos\Quản Lý Hàng Hóa\bin\Debug\4.exe.config
+C:\Users\allec\source\repos\Quản Lý Hàng Hóa\bin\Debug\4.exe
+C:\Users\allec\source\repos\Quản Lý Hàng Hóa\bin\Debug\4.pdb
+C:\Users\allec\source\repos\Quản Lý Hàng Hóa\bin\Debug\Newtonsoft.Json.dll
+C:\Users\allec\source\repos\Quản Lý Hàng Hóa\bin\Debug\Newtonsoft.Json.xml
+C:\Users\allec\source\repos\Quản Lý Hàng Hóa\obj\Debug\HangHoa.csproj.AssemblyReference.cache
+C:\Users\allec\source\repos\Quản Lý Hàng Hóa\obj\Debug\_4.FormQLHangHoa.resources
+C:\Users\allec\source\repos\Quản Lý Hàng Hóa\obj\Debug\HangHoa.csproj.GenerateResource.cache
+C:\Users\allec\source\repos\Quản Lý Hàng Hóa\obj\Debug\HangHoa.csproj.CoreCompileInputs.cache
+C:\Users\allec\source\repos\Quản Lý Hàng Hóa\obj\Debug\HangHoa.csproj.Up2Date
+C:\Users\allec\source\repos\Quản Lý Hàng Hóa\obj\Debug\4.exe
+C:\Users\allec\source\repos\Quản Lý Hàng Hóa\obj\Debug\4.pdb
